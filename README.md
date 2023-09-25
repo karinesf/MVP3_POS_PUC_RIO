@@ -31,7 +31,7 @@ Trabalho realizado durante a terceira Sprint do Curso de Pós Graduação em Ci�
        
        - Depois foram criadas 2 pastas, onde em uma (aprovacao_emprestimo) foi carregado os dados da base que irei utilizar e na outra (Dados_processados) que está vazia, irei carregar os dados depois de processados.
          
-       ![cargaS3-1](cargaS3-1.png)
+       ![CargaS3-1](CargaS3-1.png)
        
        - Aqui vemos a pasta com a base carregada no formato csv.
          
